@@ -1,6 +1,8 @@
 # flutter_application_1
-
-A new Flutter project.
+Nama : Kaisha Namira Tarmizi
+NIM : 124220107
+Kelas :SI-E
+Latihan Kuis
 
 ## Getting Started
 
